@@ -1,0 +1,15 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    float: left;
+    margin-left: 10px;
+}
+
+#paragraf1, #paragraf3, #paragraf7{
+    background-color: orange;
+}
+
+#paragraf4, #paragraf8{
+    opacity: 0.3;
+}
